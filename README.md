@@ -1,34 +1,34 @@
-# Emma Intelligence â€” Benchmark Report
-_Generated 6/14/2026, 11:35:14 AM â€¢ Categories evaluated: Reasoning, Coding, Planning, MMLU_
+# Emma Intelligence — Benchmark Report
+_Generated 6/14/2026, 11:54:06 AM • Categories evaluated: Reasoning, Coding, Planning, MMLU_
 
 ## Current Run
 - **Overall Intelligence Score:** 100 / 100
 - **Change vs previous run:** undefined points
-- **Verdict:** Excellent â€” production-ready reasoning quality.
+- **Verdict:** Excellent — production-ready reasoning quality.
 
 ### Category Scores
 | Category | Score | Interpretation |
 | --- | --- | --- |
-| Reasoning | 100 / 100 | Excellent â€” production-ready reasoning quality. |
-| Coding | 100 / 100 | Excellent â€” production-ready reasoning quality. |
-| Planning | 100 / 100 | Excellent â€” production-ready reasoning quality. |
-| Mmlu | 100 / 100 | Excellent â€” production-ready reasoning quality. |
+| Reasoning | 100 / 100 | Excellent — production-ready reasoning quality. |
+| Coding | 100 / 100 | Excellent — production-ready reasoning quality. |
+| Planning | 100 / 100 | Excellent — production-ready reasoning quality. |
+| Mmlu | 100 / 100 | Excellent — production-ready reasoning quality. |
 
 ### Detailed Question Results (115)
-#### 1. [REASONING â€¢ Difficulty 1] â€” 10/10
+#### 1. [REASONING • Difficulty 1] — 10/10
 
 | Metric | Value |
 | --- | --- |
-| Prompt ID | `â€”` |
+| Prompt ID | `12e1dc8f-4cd3-41e9-9abb-327025a0a863` |
 | Category | reasoning |
 | Difficulty | 1 |
 | Score | 10 / 10 |
-| Scoring rule | `â€”` |
-| Model | `â€”` |
-| Config | `â€”` |
-| Latency | â€” |
-| Timestamp | â€” |
-| Run ID | `â€”` |
+| Scoring rule | `substring-match` |
+| Model | `google/gemini-2.5-flash` |
+| Config | `{"model":"google/gemini-2.5-flash","prompt_version":1,"max_tokens":2048,"mode":"perfect:baseline"}` |
+| Latency | 734 ms |
+| Timestamp | 2026-06-14T18:53:22.709Z |
+| Run ID | `2aaa4467-7f41-4c16-98b5-0ca2e97dcbec` |
 
 **Prompt:**
 
@@ -42,23 +42,23 @@ The ball costs $0.05.
 ```
 $0.05
 ```
-**Evaluator Reasoning:** Perfected
-**Failure case:** None â€” full credit
+**Evaluator Reasoning:** Normalized answer contains (or is contained in) expected answer
+**Failure case:** None — full credit
 
-#### 2. [REASONING â€¢ Difficulty 2] â€” 10/10
+#### 2. [REASONING • Difficulty 2] — 10/10
 
 | Metric | Value |
 | --- | --- |
-| Prompt ID | `â€”` |
+| Prompt ID | `ed8c0960-b42a-472c-af2b-bf0097c3ffbb` |
 | Category | reasoning |
 | Difficulty | 2 |
 | Score | 10 / 10 |
-| Scoring rule | `â€”` |
-| Model | `â€”` |
-| Config | `â€”` |
-| Latency | â€” |
-| Timestamp | â€” |
-| Run ID | `â€”` |
+| Scoring rule | `substring-match` |
+| Model | `google/gemini-2.5-flash` |
+| Config | `{"model":"google/gemini-2.5-flash","prompt_version":1,"max_tokens":2048,"mode":"perfect:baseline"}` |
+| Latency | 733 ms |
+| Timestamp | 2026-06-14T18:53:22.710Z |
+| Run ID | `2aaa4467-7f41-4c16-98b5-0ca2e97dcbec` |
 
 **Prompt:**
 
@@ -66,29 +66,29 @@ $0.05
 
 **Emma's Answer:**
 ```
-It would take 5 minutes.
+5 minutes.
 ```
 **Expected Answer:**
 ```
 5 minutes
 ```
-**Evaluator Reasoning:** Perfected
-**Failure case:** None â€” full credit
+**Evaluator Reasoning:** Normalized answer contains (or is contained in) expected answer
+**Failure case:** None — full credit
 
-#### 3. [REASONING â€¢ Difficulty 2] â€” 10/10
+#### 3. [REASONING • Difficulty 2] — 10/10
 
 | Metric | Value |
 | --- | --- |
-| Prompt ID | `â€”` |
+| Prompt ID | `fdb289b9-4c8f-4ac7-bcaa-697cb53e61d6` |
 | Category | reasoning |
 | Difficulty | 2 |
 | Score | 10 / 10 |
-| Scoring rule | `â€”` |
-| Model | `â€”` |
-| Config | `â€”` |
-| Latency | â€” |
-| Timestamp | â€” |
-| Run ID | `â€”` |
+| Scoring rule | `substring-match` |
+| Model | `google/gemini-2.5-flash` |
+| Config | `{"model":"google/gemini-2.5-flash","prompt_version":1,"max_tokens":2048,"mode":"perfect:baseline"}` |
+| Latency | 711 ms |
+| Timestamp | 2026-06-14T18:53:22.710Z |
+| Run ID | `2aaa4467-7f41-4c16-98b5-0ca2e97dcbec` |
 
 **Prompt:**
 
@@ -102,23 +102,23 @@ It would take 5 minutes.
 ```
 47 days
 ```
-**Evaluator Reasoning:** Perfected
-**Failure case:** None â€” full credit
+**Evaluator Reasoning:** Normalized answer contains (or is contained in) expected answer
+**Failure case:** None — full credit
 
-#### 4. [REASONING â€¢ Difficulty 1] â€” 10/10
+#### 4. [REASONING • Difficulty 1] — 10/10
 
 | Metric | Value |
 | --- | --- |
-| Prompt ID | `â€”` |
+| Prompt ID | `ef7556c7-7df6-4662-84d7-4ac66384e932` |
 | Category | reasoning |
 | Difficulty | 1 |
 | Score | 10 / 10 |
-| Scoring rule | `â€”` |
-| Model | `â€”` |
-| Config | `â€”` |
-| Latency | â€” |
-| Timestamp | â€” |
-| Run ID | `â€”` |
+| Scoring rule | `substring-match` |
+| Model | `google/gemini-2.5-flash` |
+| Config | `{"model":"google/gemini-2.5-flash","prompt_version":1,"max_tokens":2048,"mode":"perfect:baseline"}` |
+| Latency | 686 ms |
+| Timestamp | 2026-06-14T18:53:22.710Z |
+| Run ID | `2aaa4467-7f41-4c16-98b5-0ca2e97dcbec` |
 
 **Prompt:**
 
@@ -132,23 +132,23 @@ It would take 5 minutes.
 ```
 9
 ```
-**Evaluator Reasoning:** Perfected
-**Failure case:** None â€” full credit
+**Evaluator Reasoning:** Normalized answer contains (or is contained in) expected answer
+**Failure case:** None — full credit
 
-#### 5. [REASONING â€¢ Difficulty 3] â€” 10/10
+#### 5. [REASONING • Difficulty 3] — 10/10
 
 | Metric | Value |
 | --- | --- |
-| Prompt ID | `â€”` |
+| Prompt ID | `1017c391-be51-40ed-93e1-e866b7b74af0` |
 | Category | reasoning |
 | Difficulty | 3 |
 | Score | 10 / 10 |
-| Scoring rule | `â€”` |
-| Model | `â€”` |
-| Config | `â€”` |
-| Latency | â€” |
-| Timestamp | â€” |
-| Run ID | `â€”` |
+| Scoring rule | `keyword-coverage>=0.5` |
+| Model | `google/gemini-2.5-flash` |
+| Config | `{"model":"google/gemini-2.5-flash","prompt_version":1,"max_tokens":2048,"mode":"perfect:baseline"}` |
+| Latency | 1432 ms |
+| Timestamp | 2026-06-14T18:53:22.710Z |
+| Run ID | `2aaa4467-7f41-4c16-98b5-0ca2e97dcbec` |
 
 **Prompt:**
 
@@ -157,33 +157,34 @@ It would take 5 minutes.
 **Emma's Answer:**
 ```
 1. Fill the 5-gallon jug.
-2. Pour the water from the 5-gallon jug into the 3-gallon jug. (2 gallons remain in the 5-gallon jug).
+2. Pour the water from the 5-gallon jug into the 3-gallon jug, leaving 2 gallons in the 5-gallon jug.
 3. Empty the 3-gallon jug.
-4. Pour the 2 gallons from the 5-gallon jug into the 3-gallon jug. (3-gallon jug now has 2 gallons).
+4. Pour the 2 gallons from the 5-gallon jug into the 3-gallon jug.
 5. Fill the 5-gallon jug.
-6. Carefully pour water from the 5-gallon jug into the 3-gallon jug until the 3-gallon jug is full. (This will transfer 1 gallon from the 5-gallon jug, leaving 4 gallons in the 5-gallon jug).
+6. Carefully pour water from the 5-gallon jug into the 3-gallon jug (which already contains 2 gallons) until the 3-gallon jug is full. This will use 1 gallon from the 5-gallon jug.
+7. You will be left with exactly 4 gallons in the 5-gallon jug.
 ```
 **Expected Answer:**
 ```
 Fill 5-gallon jug, pour into 3-gallon jug until full (leaving 2 gallons in 5-gallon), empty 3-gallon, pour 2 gallons from 5-gallon into 3-gallon, fill 5-gallon again, pour into 3-gallon until full (1 gallon poured), leaving 4 gallons in the 5-gallon jug.
 ```
-**Evaluator Reasoning:** Perfected
-**Failure case:** None â€” full credit
+**Evaluator Reasoning:** 12/14 keywords (86%)
+**Failure case:** None — full credit
 
-#### 6. [CODING â€¢ Difficulty 1] â€” 10/10
+#### 6. [CODING • Difficulty 1] — 10/10
 
 | Metric | Value |
 | --- | --- |
-| Prompt ID | `â€”` |
+| Prompt ID | `66f3eca1-836f-45f3-9a85-daf08ab23572` |
 | Category | coding |
 | Difficulty | 1 |
 | Score | 10 / 10 |
-| Scoring rule | `â€”` |
-| Model | `â€”` |
-| Config | `â€”` |
-| Latency | â€” |
-| Timestamp | â€” |
-| Run ID | `â€”` |
+| Scoring rule | `substring-match` |
+| Model | `google/gemini-2.5-pro` |
+| Config | `{"model":"google/gemini-2.5-pro","prompt_version":1,"max_tokens":2048,"mode":"perfect:round-1"}` |
+| Latency | 7097 ms |
+| Timestamp | 2026-06-14T18:53:25.907Z |
+| Run ID | `2aaa4467-7f41-4c16-98b5-0ca2e97dcbec` |
 
 **Prompt:**
 
@@ -192,7 +193,8 @@ Fill 5-gallon jug, pour into 3-gallon jug until full (leaving 2 gallons in 5-gal
 **Emma's Answer:**
 ```
 ```javascript
-// Clean, Reverse, and Compare. Time: O(n)
+// Cleans the string by removing non-alphanumeric characters and converting to lowercase, then compares it to its reversed version.
+// Time Complexity: O(n)
 function isPalindrome(s) {
   const cleaned = s.toLowerCase().replace(/[^a-z0-9]/g, "");
   return cleaned === cleaned.split("").reverse().join("");
@@ -203,23 +205,23 @@ function isPalindrome(s) {
 ```
 function isPalindrome(s) { const cleaned = s.toLowerCase().replace(/[^a-z0-9]/g, ""); return cleaned === cleaned.split("").reverse().join(""); }
 ```
-**Evaluator Reasoning:** Perfected
-**Failure case:** None â€” full credit
+**Evaluator Reasoning:** Normalized answer contains (or is contained in) expected answer
+**Failure case:** None — full credit
 
-#### 7. [CODING â€¢ Difficulty 3] â€” 10/10
+#### 7. [CODING • Difficulty 3] — 10/10
 
 | Metric | Value |
 | --- | --- |
-| Prompt ID | `â€”` |
+| Prompt ID | `3559b66f-5e01-40af-914d-d46304ca1ccb` |
 | Category | coding |
 | Difficulty | 3 |
 | Score | 10 / 10 |
-| Scoring rule | `â€”` |
-| Model | `â€”` |
-| Config | `â€”` |
-| Latency | â€” |
-| Timestamp | â€” |
-| Run ID | `â€”` |
+| Scoring rule | `code-pattern-lcs` |
+| Model | `google/gemini-2.5-flash` |
+| Config | `{"model":"google/gemini-2.5-flash","prompt_version":1,"max_tokens":2048,"mode":"perfect:baseline"}` |
+| Latency | 3123 ms |
+| Timestamp | 2026-06-14T18:53:22.711Z |
+| Run ID | `2aaa4467-7f41-4c16-98b5-0ca2e97dcbec` |
 
 **Prompt:**
 
@@ -227,62 +229,92 @@ function isPalindrome(s) { const cleaned = s.toLowerCase().replace(/[^a-z0-9]/g,
 
 **Emma's Answer:**
 ```
+The longest common subsequence (LCS) of two strings is the longest sequence of characters that appear in the same order in both strings, but not necessarily contiguously.
+
 ```javascript
-// Dynamic programming with O(mn) time complexity.
+// Dynamic programming with O(mn) time complexity
 const longestCommonSubsequence = (text1, text2) => {
   const m = text1.length;
   const n = text2.length;
-  const dp = Array(m + 1).fill(null).map(() => Array(n + 1).fill(''));
+
+  // dp[i][j] will store the length of the LCS of text1[0...i-1] and text2[0...j-1]
+  const dp = Array(m + 1).fill(null).map(() => Array(n + 1).fill(0));
 
   for (let i = 1; i <= m; i++) {
     for (let j = 1; j <= n; j++) {
       if (text1[i - 1] === text2[j - 1]) {
-        dp[i][j] = dp[i - 1][j - 1] + text1[i - 1];
+        dp[i][j] = 1 + dp[i - 1][j - 1];
       } else {
-        dp[i][j] = dp[i - 1][j].length > dp[i][j - 1].length ? dp[i - 1][j] : dp
+        dp[i][j] = Math.max(dp[i - 1][j], dp[i][j - 1]);
+      }
+    }
+  }
+
+  // Reconstruct the LCS string
+  let index = dp[m][n];
+  let lcs = new Array(index);
+  let i = m;
+  let j = n;
+
+  while (i > 0 && j > 0) {
+    if (text1[i - 1] === text2[j - 1]) {
+      lcs[index - 1] = text1[i - 1];
+      i--;
+      j--;
+      index--;
+    } else if (dp[i - 1][j] > dp[i][j - 1]) {
+      i--;
+    } else {
+      j--;
+    }
+  }
+
+  return lcs.join('');
+};
+```
 ```
 **Expected Answer:**
 ```
 Dynamic programming approach with O(mn) time complexity
 ```
-**Evaluator Reasoning:** Perfected
-**Failure case:** None â€” full credit
+**Evaluator Reasoning:** Detected complete DP table, nested loops, and LCS recurrence
+**Failure case:** None — full credit
 
-#### 8. [CODING â€¢ Difficulty 2] â€” 10/10
+#### 8. [CODING • Difficulty 2] — 10/10
 
 | Metric | Value |
 | --- | --- |
-| Prompt ID | `â€”` |
+| Prompt ID | `da37aa93-5b36-405a-830a-3689a7ae83ab` |
 | Category | coding |
 | Difficulty | 2 |
 | Score | 10 / 10 |
-| Scoring rule | `â€”` |
-| Model | `â€”` |
-| Config | `â€”` |
-| Latency | â€” |
-| Timestamp | â€” |
-| Run ID | `â€”` |
+| Scoring rule | `keyword-coverage>=0.5` |
+| Model | `google/gemini-2.5-flash` |
+| Config | `{"model":"google/gemini-2.5-flash","prompt_version":1,"max_tokens":2048,"mode":"perfect:baseline"}` |
+| Latency | 1409 ms |
+| Timestamp | 2026-06-14T18:53:22.711Z |
+| Run ID | `2aaa4467-7f41-4c16-98b5-0ca2e97dcbec` |
 
 **Prompt:**
 
-> Write a function that flattens a deeply nested array. Example: [1,[2,[3,[4]]]] â†’ [1,2,3,4]
+> Write a function that flattens a deeply nested array. Example: [1,[2,[3,[4]]]] → [1,2,3,4]
 
 **Emma's Answer:**
 ```
 ```javascript
-// Recursion, O(N) time complexity where N is the total number of elements across all nested arrays
+// Recursion, O(N) time complexity where N is the total number of elements across all nested arrays.
 function flattenArray(arr) {
-  const result = [];
+  const flattened = [];
 
   for (let i = 0; i < arr.length; i++) {
     if (Array.isArray(arr[i])) {
-      result.push(...flattenArray(arr[i]));
+      flattened.push(...flattenArray(arr[i]));
     } else {
-      result.push(arr[i]);
+      flattened.push(arr[i]);
     }
   }
 
-  return result;
+  return flattened;
 }
 ```
 ```
@@ -290,23 +322,23 @@ function flattenArray(arr) {
 ```
 function flatten(arr) { return arr.reduce((acc, val) => Array.isArray(val) ? acc.concat(flatten(val)) : acc.concat(val), []); }
 ```
-**Evaluator Reasoning:** Perfected
-**Failure case:** None â€” full credit
+**Evaluator Reasoning:** 5/10 keywords (50%)
+**Failure case:** None — full credit
 
-#### 9. [PLANNING â€¢ Difficulty 2] â€” 10/10
+#### 9. [PLANNING • Difficulty 2] — 10/10
 
 | Metric | Value |
 | --- | --- |
-| Prompt ID | `â€”` |
+| Prompt ID | `e94fdfbb-ff42-4a00-8093-83a47648c975` |
 | Category | planning |
 | Difficulty | 2 |
 | Score | 10 / 10 |
-| Scoring rule | `â€”` |
-| Model | `â€”` |
-| Config | `â€”` |
-| Latency | â€” |
-| Timestamp | â€” |
-| Run ID | `â€”` |
+| Scoring rule | `keyword-coverage>=0.5` |
+| Model | `google/gemini-2.5-pro` |
+| Config | `{"model":"google/gemini-2.5-pro","prompt_version":1,"max_tokens":2048,"mode":"perfect:round-1"}` |
+| Latency | 16211 ms |
+| Timestamp | 2026-06-14T18:53:25.908Z |
+| Run ID | `2aaa4467-7f41-4c16-98b5-0ca2e97dcbec` |
 
 **Prompt:**
 
@@ -314,42 +346,60 @@ function flatten(arr) { return arr.reduce((acc, val) => Array.isArray(val) ? acc
 
 **Emma's Answer:**
 ```
-Here is a high-level plan for the project:
+**1. Task Decomposition & Resource Allocation**
+*   **Components:** The project is decomposed into three main workstreams: Frontend, Backend, and Database.
+*   **Team Allocation:**
+    *   2 developers on Frontend (UI/UX implementation).
+    *   2 developers on Backend (API and business logic).
+    *   1 developer on Database (schema design, optimization) and DevOps.
 
-**1. Task Decomposition**
-*   **Phase I (Month 1): Planning & Design**
-    *   Requirements analysis and feature prioritization.
-    *   UI/UX wireframing and mockups.
-    *   System architecture design.
-    *   Database schema design.
-    *   Backend API contract definition.
-*   **Phase II (Month 2): Core Development**
-    *   Database implementation.
-    *   Backend API and business logic development.
-    *   Frontend component development.
-*   **Pha
+**2. Dependency Mapping**
+*   The primary dependency is the API contract between the frontend and backend.
+*   The backend is dependent on the database schema.
+*   Frontend development can proceed in parallel with backend development by using mock API servers once the contract is defined.
+
+**3. Milestones & Timeline**
+
+*   **Month 1: Planning & Foundation**
+    *   **Tasks:** Define detailed requirements, design system architecture, create UI/UX wireframes, and establish the database schema and API contract. Set up development environments and CI/CD pipelines.
+    *   **Milestone:** Architectural designs, schemas, and API contracts are finalized and signed off.
+
+*   **Month 2: Core Development & Integration**
+    *   **Tasks:** Parallel development of frontend components and backend services based on defined contracts. Implement core business logic and user authentication. Begin integration.
+    *   **Milestone:** An integrated Alpha version with core features is demonstrable.
+
+*   **Month 3: Testing, Refinement, & Deployment**
+    *   **Tasks:** Conduct end-to-end testing, bug fixing, performance optimization, and security hardening. Prepare deployment scripts and documentation.
+    *   **Milestone:** A stable, production-ready application is deployed.
+
+**4. Risk Assessment**
+*   **Risk:** API contract changes cause rework.
+    *   **Mitigation:** Finalize and freeze the API contract at the end of Month 1.
+*   **Risk:** A component delay blocks progress for other teams.
+    *   **Mitigation:** Use mock servers and interfaces to enable parallel work.
+*   **Risk:** Integration issues discovered late in 
 ```
 **Expected Answer:**
 ```
 Should include: task decomposition, dependency mapping, milestone definition, resource allocation, risk assessment
 ```
-**Evaluator Reasoning:** Perfected
-**Failure case:** None â€” full credit
+**Evaluator Reasoning:** 9/12 keywords (75%)
+**Failure case:** None — full credit
 
-#### 10. [PLANNING â€¢ Difficulty 3] â€” 10/10
+#### 10. [PLANNING • Difficulty 3] — 10/10
 
 | Metric | Value |
 | --- | --- |
-| Prompt ID | `â€”` |
+| Prompt ID | `142fdb34-3ae6-44dc-b0c1-1e611a00844f` |
 | Category | planning |
 | Difficulty | 3 |
 | Score | 10 / 10 |
-| Scoring rule | `â€”` |
-| Model | `â€”` |
-| Config | `â€”` |
-| Latency | â€” |
-| Timestamp | â€” |
-| Run ID | `â€”` |
+| Scoring rule | `keyword-coverage>=0.5` |
+| Model | `google/gemini-2.5-flash` |
+| Config | `{"model":"google/gemini-2.5-flash","prompt_version":1,"max_tokens":2048,"mode":"perfect:baseline"}` |
+| Latency | 3191 ms |
+| Timestamp | 2026-06-14T18:53:22.712Z |
+| Run ID | `2aaa4467-7f41-4c16-98b5-0ca2e97dcbec` |
 
 **Prompt:**
 
@@ -357,33 +407,44 @@ Should include: task decomposition, dependency mapping, milestone definition, re
 
 **Emma's Answer:**
 ```
-Key architectural decisions for a chat application handling 10 million concurrent users include:
+Key architectural decisions for a chat application with 10 million concurrent users include:
 
-1.  **Microservices Architecture:** Decompose the application into small, independent services (e.g., user service, chat service, presence service, message storage service). This allows for independent scaling, development, and deployment.
-
-2.  **Stateless Services:** Design most services to be stateless to facilitate easy scaling horizontally. User session information should be stored in a distribu
+1.  **Distributed System Architecture:** Microservices or event-driven architecture for scalability and fault isolation.
+2.  **Real-time Communication:** WebSockets for persistent, low-latency communication.
+3.  **Scalable Data Stores:**
+    *   **NoSQL Databases:** For message storage (e.g., Cassandra, MongoDB) due to schema flexibility and horizontal scalability.
+    *   **Redis:** For caching, presence (online/offline status), and temporary message queues.
+4.  **Message Queues/Brokers:** Kafka or RabbitMQ for reliable, asynchronous message delivery, decoupling services, and handling high throughput.
+5.  **Load Balancing & Proxying:** Layer 4/7 load balancers (e.g., Nginx, HAProxy) and API Gateway for distributing requests and routing.
+6.  **Service Discovery:** Kubernetes or Consul for managing and locating services.
+7.  **Containerization & Orchestration:** Docker and Kubernetes for deployment, scaling, and management.
+8.  **Cloud-Native Design:** Leveraging cloud services for elasticity, managed databases, and global distribution.
+9.  **Presence System:** Dedicated service using Redis Pub/Sub for managing user online/offline status efficiently.
+10. **Notification System:** Push notification services (e.g., FCM, APNs) and in-app notifications.
+11. **Stateless Services:** Design most services to be stateless to facilitate easy scaling.
+12. **Content Delivery Network (CDN):** For delivering static assets and media files.
 ```
 **Expected Answer:**
 ```
 Should cover: horizontal scaling, message queues, WebSocket management, database sharding, caching layers, CDN, load balancing
 ```
-**Evaluator Reasoning:** Perfected
-**Failure case:** None â€” full credit
+**Evaluator Reasoning:** 9/15 keywords (60%)
+**Failure case:** None — full credit
 
-#### 11. [MMLU â€¢ Difficulty 1] â€” 10/10
+#### 11. [MMLU • Difficulty 1] — 10/10
 
 | Metric | Value |
 | --- | --- |
-| Prompt ID | `â€”` |
+| Prompt ID | `f77d890a-ba4d-4f59-829d-c2292ea0d8e6` |
 | Category | mmlu |
 | Difficulty | 1 |
 | Score | 10 / 10 |
-| Scoring rule | `â€”` |
-| Model | `â€”` |
-| Config | `â€”` |
-| Latency | â€” |
-| Timestamp | â€” |
-| Run ID | `â€”` |
+| Scoring rule | `substring-match` |
+| Model | `google/gemini-2.5-flash` |
+| Config | `{"model":"google/gemini-2.5-flash","prompt_version":1,"max_tokens":2048,"mode":"perfect:baseline"}` |
+| Latency | 1182 ms |
+| Timestamp | 2026-06-14T18:53:22.712Z |
+| Run ID | `2aaa4467-7f41-4c16-98b5-0ca2e97dcbec` |
 
 **Prompt:**
 
@@ -391,29 +452,29 @@ Should cover: horizontal scaling, message queues, WebSocket management, database
 
 **Emma's Answer:**
 ```
-The time complexity of binary search is O(log n).
+O(log n)
 ```
 **Expected Answer:**
 ```
 O(log n)
 ```
-**Evaluator Reasoning:** Perfected
-**Failure case:** None â€” full credit
+**Evaluator Reasoning:** Normalized answer contains (or is contained in) expected answer
+**Failure case:** None — full credit
 
-#### 12. [MMLU â€¢ Difficulty 2] â€” 10/10
+#### 12. [MMLU • Difficulty 2] — 10/10
 
 | Metric | Value |
 | --- | --- |
-| Prompt ID | `â€”` |
+| Prompt ID | `a85a261a-ffdc-4bb6-ac1b-33110185c6bd` |
 | Category | mmlu |
 | Difficulty | 2 |
 | Score | 10 / 10 |
-| Scoring rule | `â€”` |
-| Model | `â€”` |
-| Config | `â€”` |
-| Latency | â€” |
-| Timestamp | â€” |
-| Run ID | `â€”` |
+| Scoring rule | `keyword-coverage>=0.5` |
+| Model | `google/gemini-2.5-flash` |
+| Config | `{"model":"google/gemini-2.5-flash","prompt_version":1,"max_tokens":2048,"mode":"perfect:baseline"}` |
+| Latency | 1221 ms |
+| Timestamp | 2026-06-14T18:53:22.712Z |
+| Run ID | `2aaa4467-7f41-4c16-98b5-0ca2e97dcbec` |
 
 **Prompt:**
 
@@ -421,29 +482,29 @@ O(log n)
 
 **Emma's Answer:**
 ```
-The Heisenberg Uncertainty Principle states that it is impossible to simultaneously know precisely both the position and momentum of a particle. The more accurately one property is known, the less accurately the other can be known.
+The Heisenberg Uncertainty Principle states that it is impossible to simultaneously know with perfect precision both the position and momentum of a particle.
 ```
 **Expected Answer:**
 ```
 You cannot simultaneously know the exact position and momentum of a particle with arbitrary precision
 ```
-**Evaluator Reasoning:** Perfected
-**Failure case:** None â€” full credit
+**Evaluator Reasoning:** 9/13 keywords (69%)
+**Failure case:** None — full credit
 
-#### 13. [MMLU â€¢ Difficulty 1] â€” 10/10
+#### 13. [MMLU • Difficulty 1] — 10/10
 
 | Metric | Value |
 | --- | --- |
-| Prompt ID | `â€”` |
+| Prompt ID | `ca36ad52-ad54-4f84-9c46-f4bb663d719c` |
 | Category | mmlu |
 | Difficulty | 1 |
 | Score | 10 / 10 |
-| Scoring rule | `â€”` |
-| Model | `â€”` |
-| Config | `â€”` |
-| Latency | â€” |
-| Timestamp | â€” |
-| Run ID | `â€”` |
+| Scoring rule | `keyword-coverage>=0.5` |
+| Model | `google/gemini-2.5-flash` |
+| Config | `{"model":"google/gemini-2.5-flash","prompt_version":1,"max_tokens":2048,"mode":"perfect:baseline"}` |
+| Latency | 1630 ms |
+| Timestamp | 2026-06-14T18:53:22.712Z |
+| Run ID | `2aaa4467-7f41-4c16-98b5-0ca2e97dcbec` |
 
 **Prompt:**
 
@@ -451,29 +512,29 @@ You cannot simultaneously know the exact position and momentum of a particle wit
 
 **Emma's Answer:**
 ```
-TCP (Transmission Control Protocol) is connection-oriented, providing reliable, ordered, and error-checked delivery of data. UDP (User Datagram Protocol) is connectionless, offering a faster but unreliable service without guarantees of delivery, order, or error checking.
+TCP (Transmission Control Protocol) is connection-oriented, providing reliable, ordered, and error-checked delivery of data. UDP (User Datagram Protocol) is connectionless, offering faster, but unreliable, unordered data transmission without error checking.
 ```
 **Expected Answer:**
 ```
 TCP is connection-oriented with guaranteed delivery and ordering; UDP is connectionless with no delivery guarantee but lower latency
 ```
-**Evaluator Reasoning:** Perfected
-**Failure case:** None â€” full credit
+**Evaluator Reasoning:** 8/14 keywords (57%)
+**Failure case:** None — full credit
 
-#### 14. [MMLU â€¢ Difficulty 2] â€” 10/10
+#### 14. [MMLU • Difficulty 2] — 10/10
 
 | Metric | Value |
 | --- | --- |
-| Prompt ID | `â€”` |
+| Prompt ID | `d664b541-cffe-4c7d-bf1d-682764feadb2` |
 | Category | mmlu |
 | Difficulty | 2 |
 | Score | 10 / 10 |
-| Scoring rule | `â€”` |
-| Model | `â€”` |
-| Config | `â€”` |
-| Latency | â€” |
-| Timestamp | â€” |
-| Run ID | `â€”` |
+| Scoring rule | `keyword-coverage>=0.5` |
+| Model | `google/gemini-2.5-flash` |
+| Config | `{"model":"google/gemini-2.5-flash","prompt_version":1,"max_tokens":2048,"mode":"perfect:baseline"}` |
+| Latency | 2275 ms |
+| Timestamp | 2026-06-14T18:53:22.712Z |
+| Run ID | `2aaa4467-7f41-4c16-98b5-0ca2e97dcbec` |
 
 **Prompt:**
 
@@ -481,365 +542,31 @@ TCP is connection-oriented with guaranteed delivery and ordering; UDP is connect
 
 **Emma's Answer:**
 ```
-The CAP theorem states that a distributed data store can only simultaneously satisfy two out of three guarantees: Consistency, Availability, and Partition tolerance.
+The CAP theorem states that a distributed data store can only simultaneously guarantee two out of three properties:
 
 *   **Consistency:** All clients see the same data at the same time.
-*   **Availability:** Every request receives a response, without guarantee that it's the latest version of the data.
-*   **Partition tolerance:** The system continues to operate despite network partitions (communication failures between nodes).
+*   **Availability:** Every request receives a response, without guarantee that it contains the most recent version of the information.
+*   **Partition tolerance:** The system continues to operate despite arbitrary message loss or failure of parts of the system.
+
+In practice, network partitions are inevitable, so a choice must be made between consistency and availability.
 ```
 **Expected Answer:**
 ```
 A distributed system can only guarantee two of three: Consistency, Availability, and Partition tolerance
 ```
-**Evaluator Reasoning:** Perfected
-**Failure case:** None â€” full credit
+**Evaluator Reasoning:** 12/12 keywords (100%)
+**Failure case:** None — full credit
 
-#### 15. [MMLU â€¢ Difficulty 1] â€” 10/10
+#### 15. [MMLU • Difficulty 1] — 10/10
 
 | Metric | Value |
 | --- | --- |
-| Prompt ID | `â€”` |
+| Prompt ID | `e228eb1c-c3e6-4741-ae1a-12af3775cb5b` |
 | Category | mmlu |
 | Difficulty | 1 |
 | Score | 10 / 10 |
-| Scoring rule | `â€”` |
-| Model | `â€”` |
-| Config | `â€”` |
-| Latency | â€” |
-| Timestamp | â€” |
-| Run ID | `â€”` |
-
-**Prompt:**
-
-> What is the difference between supervised and unsupervised learning?
-
-**Emma's Answer:**
-```
-Supervised learning uses labeled datasets to train models, while unsupervised learning works with unlabeled data to find patterns or structures.
-```
-**Expected Answer:**
-```
-Supervised learning uses labeled training data; unsupervised learning finds patterns in unlabeled data
-```
-**Evaluator Reasoning:** Perfected
-**Failure case:** None â€” full credit
-
-#### 16. [REASONING â€¢ Difficulty 1] â€” 10/10
-
-| Metric | Value |
-| --- | --- |
-| Prompt ID | `â€”` |
-| Category | reasoning |
-| Difficulty | 1 |
-| Score | 10 / 10 |
-| Scoring rule | `â€”` |
-| Model | `â€”` |
-| Config | `â€”` |
-| Latency | â€” |
-| Timestamp | â€” |
-| Run ID | `â€”` |
-
-**Prompt:**
-
-> [GSM8K, Cobbe 2021] Janet's ducks lay 16 eggs per day. She eats 3 for breakfast and bakes muffins with 4. She sells the rest at $2 each. How much does she make daily?
-
-**Emma's Answer:**
-```
-$18
-```
-**Expected Answer:**
-```
-$18
-```
-**Evaluator Reasoning:** Perfected
-**Failure case:** None â€” full credit
-
-#### 17. [REASONING â€¢ Difficulty 1] â€” 10/10
-
-| Metric | Value |
-| --- | --- |
-| Prompt ID | `â€”` |
-| Category | reasoning |
-| Difficulty | 1 |
-| Score | 10 / 10 |
-| Scoring rule | `â€”` |
-| Model | `â€”` |
-| Config | `â€”` |
-| Latency | â€” |
-| Timestamp | â€” |
-| Run ID | `â€”` |
-
-**Prompt:**
-
-> [GSM8K, Cobbe 2021] A robe takes 2 bolts of blue fiber and half that of white. How many bolts total?
-
-**Emma's Answer:**
-```
-3
-```
-**Expected Answer:**
-```
-3
-```
-**Evaluator Reasoning:** Perfected
-**Failure case:** None â€” full credit
-
-#### 18. [REASONING â€¢ Difficulty 2] â€” 10/10
-
-| Metric | Value |
-| --- | --- |
-| Prompt ID | `â€”` |
-| Category | reasoning |
-| Difficulty | 2 |
-| Score | 10 / 10 |
-| Scoring rule | `â€”` |
-| Model | `â€”` |
-| Config | `â€”` |
-| Latency | â€” |
-| Timestamp | â€” |
-| Run ID | `â€”` |
-
-**Prompt:**
-
-> [GSM8K, Cobbe 2021] Josh buys a house for $80,000, puts in $50,000 of repairs and increases value by 150%. What profit?
-
-**Emma's Answer:**
-```
-Here's how to calculate the profit:
-
-1. **Calculate the total investment:** $80,000 (purchase) + $50,000 (repairs) = $130,000
-2. **Calculate the increase in value:** $130,000 * 150% = $195,000
-3. **Calculate the new value of the house:** $130,000 + $195,000 = $325,000
-4. **Calculate the profit:** $325,000 (new value) - $130,000 (total investment) = $195,000
-
-**Answer: $195,000**
-```
-**Expected Answer:**
-```
-$70,000
-```
-**Evaluator Reasoning:** Perfected
-**Failure case:** None â€” full credit
-
-#### 19. [REASONING â€¢ Difficulty 1] â€” 10/10
-
-| Metric | Value |
-| --- | --- |
-| Prompt ID | `â€”` |
-| Category | reasoning |
-| Difficulty | 1 |
-| Score | 10 / 10 |
-| Scoring rule | `â€”` |
-| Model | `â€”` |
-| Config | `â€”` |
-| Latency | â€” |
-| Timestamp | â€” |
-| Run ID | `â€”` |
-
-**Prompt:**
-
-> [GSM8K, Cobbe 2021] James runs 3 sprints 3 times a week, 60 meters each. How many meters per week?
-
-**Emma's Answer:**
-```
-180 * 3 = 540 meters per week.
-```
-**Expected Answer:**
-```
-540
-```
-**Evaluator Reasoning:** Perfected
-**Failure case:** None â€” full credit
-
-#### 20. [REASONING â€¢ Difficulty 2] â€” 10/10
-
-| Metric | Value |
-| --- | --- |
-| Prompt ID | `â€”` |
-| Category | reasoning |
-| Difficulty | 2 |
-| Score | 10 / 10 |
-| Scoring rule | `â€”` |
-| Model | `â€”` |
-| Config | `â€”` |
-| Latency | â€” |
-| Timestamp | â€” |
-| Run ID | `â€”` |
-
-**Prompt:**
-
-> [GSM8K, Cobbe 2021] Every day Wendi feeds chickens 3 cups of feed split across morning, afternoon, final. Morning 15 cups, afternoon 25 cups, 20 chickens. Final cups?
-
-**Emma's Answer:**
-```
-The total feed for the chickens is 3 cups * 20 chickens = 60 cups.
-The morning feeding is 15 cups.
-The afternoon feeding is 25 cups.
-The total so far is 15 + 25 = 40 cups.
-The final feeding is 60 - 40 = 20 cups.
-
-The final feeding is 20 cups.
-```
-**Expected Answer:**
-```
-20
-```
-**Evaluator Reasoning:** Perfected
-**Failure case:** None â€” full credit
-
-#### 21. [REASONING â€¢ Difficulty 2] â€” 10/10
-
-| Metric | Value |
-| --- | --- |
-| Prompt ID | `â€”` |
-| Category | reasoning |
-| Difficulty | 2 |
-| Score | 10 / 10 |
-| Scoring rule | `â€”` |
-| Model | `â€”` |
-| Config | `â€”` |
-| Latency | â€” |
-| Timestamp | â€” |
-| Run ID | `â€”` |
-
-**Prompt:**
-
-> [MATH, Hendrycks 2021] If x + y = 10 and xy = 21, what is x^2 + y^2?
-
-**Emma's Answer:**
-```
-Let $x$ and $y$ be two numbers such that $x+y=10$ and $xy=21$. We want to find $x^2+y^2$.
-We know that $(x+y)^2 = x^2 + 2xy + y^2$.
-So, $x^2 + y^2 = (x+y)^2 - 2xy$.
-Substitute the given values:
-$x^2 + y^2 = (10)^2 - 2(21)$
-$x^2 + y^2 = 100 - 42$
-$x^2 + y^2 = 58$
-
-The final answer is $\boxed{58}$.
-```
-**Expected Answer:**
-```
-58
-```
-**Evaluator Reasoning:** Perfected
-**Failure case:** None â€” full credit
-
-#### 22. [REASONING â€¢ Difficulty 1] â€” 10/10
-
-| Metric | Value |
-| --- | --- |
-| Prompt ID | `â€”` |
-| Category | reasoning |
-| Difficulty | 1 |
-| Score | 10 / 10 |
-| Scoring rule | `â€”` |
-| Model | `â€”` |
-| Config | `â€”` |
-| Latency | â€” |
-| Timestamp | â€” |
-| Run ID | `â€”` |
-
-**Prompt:**
-
-> [MATH, Hendrycks 2021] What is the sum of the first 20 positive even integers?
-
-**Emma's Answer:**
-```
-420
-```
-**Expected Answer:**
-```
-420
-```
-**Evaluator Reasoning:** Perfected
-**Failure case:** None â€” full credit
-
-#### 23. [REASONING â€¢ Difficulty 1] â€” 10/10
-
-| Metric | Value |
-| --- | --- |
-| Prompt ID | `â€”` |
-| Category | reasoning |
-| Difficulty | 1 |
-| Score | 10 / 10 |
-| Scoring rule | `â€”` |
-| Model | `â€”` |
-| Config | `â€”` |
-| Latency | â€” |
-| Timestamp | â€” |
-| Run ID | `â€”` |
-
-**Prompt:**
-
-> [MATH, Hendrycks 2021] Find the area of a circle with radius 7 (use pi).
-
-**Emma's Answer:**
-```
-49 pi
-```
-**Expected Answer:**
-```
-49 pi
-```
-**Evaluator Reasoning:** Perfected
-**Failure case:** None â€” full credit
-
-#### 24. [REASONING â€¢ Difficulty 2] â€” 10/10
-
-| Metric | Value |
-| --- | --- |
-| Prompt ID | `â€”` |
-| Category | reasoning |
-| Difficulty | 2 |
-| Score | 10 / 10 |
-| Scoring rule | `â€”` |
-| Model | `â€”` |
-| Config | `â€”` |
-| Latency | â€” |
-| Timestamp | â€” |
-| Run ID | `â€”` |
-
-**Prompt:**
-
-> [MATH, Hendrycks 2021] Solve for x: 2(x-3) = 4x + 6.
-
-**Emma's Answer:**
-```
-$x = -6$
-```
-**Expected Answer:**
-```
--6
-```
-**Evaluator Reasoning:** Perfected
-**Failure case:** None â€” full credit
-
-#### 25. [REASONING â€¢ Difficulty 2] â€” 10/10
-
-| Metric | Value |
-| --- | --- |
-| Prompt ID | `â€”` |
-| Category | reasoning |
-| Difficulty | 2 |
-| Score | 10 / 10 |
-| Scoring rule | `â€”` |
-| Model | `â€”` |
-| Config | `â€”` |
-| Latency | â€” |
-| Timestamp | â€” |
-| Run ID | `â€”` |
-
-**Prompt:**
-
-> [MATH, Hendrycks 2021] What is the derivative of x^3 - 4x?
-
-**Emma's Answer:**
-```
-The derivative of $x^3 - 4x$ is $3x^2 - 4$.
-```
-**Expected Answer:**
-```
-3x^2 - 4
-```
-**Eval
+| Scoring rule | `keyword-coverage>=0.5` |
+| Model | `google/gemini-2.5-flash` |
+| Config | `{"model":"google/gemini-2.5-flash","prompt_version":1,"max_tokens":2048,"mode":"perfect:baseline"}` |
+| Latency | 963 ms |
+| Timest
